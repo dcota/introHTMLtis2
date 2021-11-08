@@ -6,12 +6,29 @@
     background-color:#ffc2b3;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 24px;
-}
-.p2:hover {
-    background-color:blue;
+    text-align: justify;
+    padding: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.dog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    height: auto;
+    border-style:double;
+}
+
+.legendas {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
